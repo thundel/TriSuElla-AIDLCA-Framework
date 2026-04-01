@@ -1,5 +1,5 @@
-# OWASP-TriSuElla-AIDLCA-Framework
-OWASP TriSuElla-AIDLCA Framework
+# TriSuElla-AIDLCA-Framework
+TriSuElla-AIDLCA Framework
 # 🔱 TriSuElla-AIDLCA Secure Development Framework
 
 > **AI-Driven. Policy-Governed. Trustworthy by Design.**
